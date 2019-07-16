@@ -760,6 +760,7 @@
 0.0.0.0 151.101.16.246
 0.0.0.0 93.184.215.151
 0.0.0.0 ns1.fastly.net
+0.0.0.0 withspotify.spotify.map.fastly.net
 0.0.0.0 beta.spotify.map.fastly.net
 0.0.0.0 beta.spotify.map.fastlylb.net
 0.0.0.0 prod.spotify-heads.map.fastlylb.net
