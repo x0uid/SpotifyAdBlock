@@ -102,6 +102,7 @@
 0.0.0.0 audio4-ak.spotify.com.edgesuite.net
 0.0.0.0 audio4-akp.spotify.com.edgesuite.net
 0.0.0.0 audio-ak.spotify.com.eip.akadns.net
+0.0.0.0 beacon-nf.rubiconproject.net.akadns.net
 0.0.0.0 track-eu.adformnet.akadns.net
 0.0.0.0 track.adform.net
 0.0.0.0 internal.akadns.net
@@ -113,6 +114,7 @@
 0.0.0.0 heads-akp.spotify.com.edgesuite.net
 0.0.0.0 heads4-ak.spotify.com.edgesuite.net
 0.0.0.0 heads4-akp.spotify.com.edgesuite.net
+0.0.0.0 beacon-nf.rubiconproject.com
 0.0.0.0 search.spotxchange.com
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 spotxchange.com
