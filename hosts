@@ -34,6 +34,7 @@
 # redirector.gvt1.com                                                                                         #
 ###############################################################################################################
 0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 ap.gslb.spotify.com
 0.0.0.0 apresolve.spotify.com
 0.0.0.0 ads-akp.spotify.com
 0.0.0.0 audio-ak.spotify.com
@@ -732,6 +733,7 @@
 0.0.0.0 lon6-accesspoint-a6.lon6.spotify.com
 0.0.0.0 lon6-accesspoint-a7.lon6.spotify.com
 0.0.0.0 lon6-accesspoint-c1.lon6.spotify.com
+0.0.0.0 35.186.224.53
 0.0.0.0 54.230.129.219
 0.0.0.0 54.230.129.180
 0.0.0.0 54.230.129.46
