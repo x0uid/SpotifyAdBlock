@@ -1,5 +1,5 @@
 I will show you how to easily block the servers hosting Spotify ads on your Linux/Mac or Windows machine. 
-This will allow you to listen all day long on a free account without hearing a single ad.  
+This will allow you to listen all day long on a free account without hearing a single ad or being tracked by third party.  
 This trick is very simple, legal and works great.
 
 In order to remove those pesky ads, all we need to do is setup out hosts file to override the DNS for Spotify's ad servers and redirect that traffic to our local machine.  
