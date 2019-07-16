@@ -1,4 +1,10 @@
-# Block Spotify Ads! more info at 
+# I've analysed the Spotify network. Assuming you are using a(n)  (ad block) 
+# hosts file on your computer or router, most advertisement site are already 
+# blocked. If you find/spot a DNS entrie(s) that not listed yet please contact me
+# on twitter (@0xUID) or via blog (blogpirate.net).
+#
+# Block Spotify Ads! [Updated 15-07-2019]
+# More info about this hosts file at 
 # https://blogpirate.net/2017/08/08/how-to-block-those-nasty-ads-in-spotify-app-in-windows-linux-and-osx/
 #
 # Keep in mind that blocking servers is LEGAL. It's your home, your device, your Internet and your conviction. 
