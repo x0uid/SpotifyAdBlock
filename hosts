@@ -34,8 +34,6 @@
 # redirector.gvt1.com                                                                                         #
 ###############################################################################################################
 0.0.0.0 adeventtracker.spotify.com
-0.0.0.0 ap.gslb.spotify.com
-0.0.0.0 apresolve.spotify.com
 0.0.0.0 ads-akp.spotify.com
 0.0.0.0 audio-ak.spotify.com
 0.0.0.0 audio-akp.spotify.com
@@ -1512,6 +1510,7 @@
 0.0.0.0	104.199.65.254
 0.0.0.0	104.199.65.255
 0.0.0.0 93.184.215.151
+0.0.0.0 151.101.36.246
 0.0.0.0 ns1.fastly.net
 0.0.0.0 withspotify.spotify.map.fastly.net
 0.0.0.0 beta.spotify.map.fastly.net
