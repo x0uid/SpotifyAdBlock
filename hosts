@@ -34,6 +34,7 @@
 # redirector.gvt1.com                                                                                         #
 ###############################################################################################################
 0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 ap.gslb.spotify.com
 0.0.0.0 ads-akp.spotify.com
 0.0.0.0 audio-ak.spotify.com
 0.0.0.0 audio-akp.spotify.com
