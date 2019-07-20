@@ -70,6 +70,10 @@
 0.0.0.0 viridis.lon2.spotify.com
 0.0.0.0 zayit.lon2.spotify.com
 0.0.0.0 linsey.lon2.spotify.com
+0.0.0.0 analytics-001.lon.spotify.com
+0.0.0.0 analytics-002.lon.spotify.com
+0.0.0.0 analytics-classic.spotify.com
+0.0.0.0 analytics-preview.spotify.com
 0.0.0.0 audio-gc.scdn.co
 0.0.0.0 audio-fa.scdn.co
 0.0.0.0 crusader.scdn.co
