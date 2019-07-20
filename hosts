@@ -58,6 +58,9 @@
 0.0.0.0 ash1-apresolve-a2.ash1.spotify.com
 0.0.0.0 ash1-apresolve-a3.ash.spotify.com
 0.0.0.0 ash1-apresolve-a3.ash1.spotify.com
+0.0.0.0 exp-canary.wg.spotify.com
+0.0.0.0 exp.spotify.com
+0.0.0.0 exp.wg.spotify.com
 0.0.0.0 assets.spotify.com
 0.0.0.0 audio-cf.spotify.com
 0.0.0.0 audio-fa.spotify.com
