@@ -36,6 +36,17 @@
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 ap.gslb.spotify.com
 0.0.0.0 ads-akp.spotify.com
+0.0.0.0 ads-br.spotify.com
+0.0.0.0 ads-ca.spotify.com
+0.0.0.0 ads-fa.cdn.spotify.com
+0.0.0.0 ads-fa.spotify.com
+0.0.0.0 ads-jp.spotify.com
+0.0.0.0 ads-pt.spotify.com
+0.0.0.0 ads-us.spotify.com
+0.0.0.0 ads-sp-ash.cdn.spotify.com
+0.0.0.0 ads-sp-lon.cdn.spotify.com
+0.0.0.0 ads-sp-sto.cdn.spotify.com
+0.0.0.0 admocker.spotify.com
 0.0.0.0 audio-ak.spotify.com
 0.0.0.0 audio-akp.spotify.com
 0.0.0.0 analytics.spotify.com
