@@ -58,6 +58,12 @@
 0.0.0.0 ash1-apresolve-a2.ash1.spotify.com
 0.0.0.0 ash1-apresolve-a3.ash.spotify.com
 0.0.0.0 ash1-apresolve-a3.ash1.spotify.com
+0.0.0.0 sto1-apresolve-a3.sto.spotify.com
+0.0.0.0 sto1-crashdump-a1.sto.spotify.com
+0.0.0.0 sto1-crashdump-a2.sto.spotify.com
+0.0.0.0 sto3-accesspoint-a88.sto3.spotify.net
+0.0.0.0 sto3-tbdscan-a2.sto3.spotify.com
+0.0.0.0 sto3-vmddelivery-b1.sto3.spotify.com
 0.0.0.0 exp-canary.wg.spotify.com
 0.0.0.0 exp.spotify.com
 0.0.0.0 exp.wg.spotify.com
