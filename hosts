@@ -1561,6 +1561,13 @@
 0.0.0.0 prod.spotify.map.fastly.net
 0.0.0.0 prod.spotify.map.fastlylb.net
 0.0.0.0 prod.b.ssl.us-eu.fastlylb.net
+0.0.0.0 ns1.dynamicnetworkservices.net
+0.0.0.0 ns2.dynamicnetworkservices.net
+0.0.0.0 ns3.dynamicnetworkservices.net
+0.0.0.0 ns4.dynamicnetworkservices.net
+0.0.0.0 ns5.dynamicnetworkservices.net
+0.0.0.0 ns6.dynamicnetworkservices.net
+0.0.0.0 ns7.dynamicnetworkservices.net
 0.0.0.0 ipinfo.io
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 links.iterable.com
