@@ -1756,6 +1756,13 @@
 0.0.0.0 gtssl2-ocsp.geotrust.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 adclick.g.doublecklick.net
+0.0.0.0 outlook.office365.comp34-keyvalueservice.icloud.compagead2.googlesyndication.com
+0.0.0.0 r4---twtelecom-dfw1.c.googlesyndication.com
+0.0.0.0 v4.lscache3.c.googlesyndication.com
+0.0.0.0 sn-vgqs7n76.c.googlesyndication.com
+0.0.0.0 r6---tiws-gru4.c.googlesyndication.com
+0.0.0.0 r14---sn-vgqs7n76.c.googlesyndication.com
+0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adservice.google.com
 0.0.0.0 analytics.google.com
