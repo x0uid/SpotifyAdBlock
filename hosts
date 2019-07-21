@@ -10,6 +10,24 @@
 #                                                                                                             #
 # Keep in mind that blocking servers is LEGAL. It's your home, your device, your Internet and your conviction.# 
 # You and only you decide what kind of data comes in and goes out. Clean and simple.                          #
+# This file contains the mappings of IP addresses to host names. Each                                         #
+# entry should be kept on an individual line. The IP address should                                           #
+# be placed in the first column followed by the corresponding host name.                                      #
+# The IP address and the host name should be separated by at least one                                        #
+# space.                                                                                                      #
+#                                                                                                             #
+# Additionally, comments (such as these) may be inserted on individual                                        #
+# lines or following the machine name denoted by a '#' symbol.                                                #
+#                                                                                                             #
+# For example:                                                                                                #
+#                                                                                                             #
+#      102.54.94.97     rhino.acme.com          # source server                                               #
+#       38.25.63.10     x.acme.com              # x client host                                               #
+#                                                                                                             #
+# localhost name resolution is handled within DNS itself.                                                     #
+#	127.0.0.1       localhost                                                                                   #
+#	::1             localhost                                                                                   #
+#                                                                                                             #
 ###############################################################################################################
 # Don't block entries below,                                                                                  #
 # they are needed for Spotify to be fully functional.                                                         #
