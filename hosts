@@ -799,7 +799,9 @@
 0.0.0.0 lon6-accesspoint-a6.lon6.spotify.com
 0.0.0.0 lon6-accesspoint-a7.lon6.spotify.com
 0.0.0.0 lon6-accesspoint-c1.lon6.spotify.com
+0.0.0.0 weblb-wg.gslb.spotify.com
 0.0.0.0 affiliate.googleusercontent.com
+0.0.0.0 wintricksbanner.googlepages.com
 0.0.0.0 ns1.fastly.net
 0.0.0.0 withspotify.spotify.map.fastly.net
 0.0.0.0 beta.spotify.map.fastly.net
