@@ -81,6 +81,8 @@
 0.0.0.0 sto3-accesspoint-a88.sto3.spotify.net
 0.0.0.0 sto3-tbdscan-a2.sto3.spotify.com
 0.0.0.0 sto3-vmddelivery-b1.sto3.spotify.com
+0.0.0.0 spclient.wg.spotify.com/ads/
+0.0.0.0 spclient.wg.spotify.com/ad-logic/
 0.0.0.0 exp-canary.wg.spotify.com
 0.0.0.0 exp.spotify.com
 0.0.0.0 exp.wg.spotify.com
@@ -1021,8 +1023,6 @@
 0.0.0.0 combine.urbanairship.com
 0.0.0.0 ads-west-colo.adsymptotic.com
 0.0.0.0 gtssl2-ocsp.geotrust.com
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 outlook.office365.comp34-keyvalueservice.icloud.compagead2.googlesyndication.com
 0.0.0.0 r4---twtelecom-dfw1.c.googlesyndication.com
 0.0.0.0 v4.lscache3.c.googlesyndication.com
@@ -1140,6 +1140,10 @@
 0.0.0.0 media98.fastclick.net
 0.0.0.0 media99.fastclick.net
 0.0.0.0 googleadservices.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 3ad.doubleclick.net
 0.0.0.0 ad2.doubleclick.net
 0.0.0.0 ad.3au.doubleclick.net
@@ -2090,6 +2094,7 @@
 0.0.0.0 199.15.213.14
 0.0.0.0 204.93.78.248
 0.0.0.0 213.186.33.69
+0.0.0.0 216.58.208.98
 0.0.0.0 216.137.63.126
 0.0.0.0 23.101.159.242
 0.0.0.0 23.1.35.33
