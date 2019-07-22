@@ -52,6 +52,7 @@
 ###############################################################################################################
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 gew-spclient.spotify.com
+0.0.0.0 partneraudiences.spotify.com
 0.0.0.0 ap.gslb.spotify.com
 0.0.0.0 ads-akp.spotify.com
 0.0.0.0 ads-br.spotify.com
