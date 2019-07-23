@@ -1044,7 +1044,9 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 analytics.google.com
 0.0.0.0 ee-in-f95.1.e100.net
-0.0.0.0 media.fastclick.net	
+0.0.0.0 code.fastclick.net
+0.0.0.0 media.fastclick.net
+0.0.0.0 images.fastclick.net	
 0.0.0.0 cdn.fastclick.net	
 0.0.0.0 media1.fastclick.net
 0.0.0.0 media2.fastclick.net
