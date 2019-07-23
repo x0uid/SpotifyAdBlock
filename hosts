@@ -146,6 +146,7 @@
 0.0.0.0 ads-fa.cdn.spotify.com
 0.0.0.0 video-fa.cdn.spotify.com
 0.0.0.0 video-fa-b.cdn.spotify.com
+0.0.0.0 contentclick.akamaized.net
 0.0.0.0 audio4-ak-spotify-com.akamaized.net
 0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 audio-ake.spotify.com.edgesuite.net
@@ -954,6 +955,7 @@
 0.0.0.0 zhcn.admob.com
 0.0.0.0 akamaihd.net
 0.0.0.0 appnext-a.akamaihd.net
+0.0.0.0 contentcache-a.akamaihd.net
 0.0.0.0 a1294.w20.akamai.net
 0.0.0.0 a1843.g.akamai.net
 0.0.0.0 a50.g2.akamai.net
