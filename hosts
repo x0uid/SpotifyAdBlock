@@ -958,6 +958,12 @@
 0.0.0.0 akamaihd.net
 0.0.0.0 appnext-a.akamaihd.net
 0.0.0.0 contentcache-a.akamaihd.net
+0.0.0.0 aksb-a.akamaihd.net
+0.0.0.0 apiskywebbercom-a.akamaihd.net
+0.0.0.0 asrv-a.akamaihd.net
+0.0.0.0 canvaspl-a.akamaihd.net
+0.0.0.0 cdncache2-a.akamaihd.net
+0.0.0.0 cdnstats-a.akamaihd.net
 0.0.0.0 a1294.w20.akamai.net
 0.0.0.0 a1843.g.akamai.net
 0.0.0.0 a50.g2.akamai.net
