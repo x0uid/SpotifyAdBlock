@@ -1037,6 +1037,8 @@
 0.0.0.0 tpcnc.googlesyndication.com
 0.0.0.0 tic.googlesyndication.com
 0.0.0.0 afs.googlesyndication.com
+0.0.0.0 adservice.google.nl
+0.0.0.0 adservice.google.de
 0.0.0.0 adservice.google.com
 0.0.0.0 analytics.google.com
 0.0.0.0 ee-in-f95.1.e100.net
