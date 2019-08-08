@@ -54,6 +54,7 @@
 0.0.0.0 gew-spclient.spotify.com
 0.0.0.0 partneraudiences.spotify.com
 0.0.0.0 ap.gslb.spotify.com
+0.0.0.0 ad-proxy.spotify.com
 0.0.0.0 ads-akp.spotify.com
 0.0.0.0 ads-br.spotify.com
 0.0.0.0 ads-ca.spotify.com
@@ -65,6 +66,8 @@
 0.0.0.0 ads-sp-ash.cdn.spotify.com
 0.0.0.0 ads-sp-lon.cdn.spotify.com
 0.0.0.0 ads-sp-sto.cdn.spotify.com
+0.0.0.0 adgen-dev.spotify.com
+0.0.0.0 adgen.spotify.com
 0.0.0.0 admocker.spotify.com
 0.0.0.0 audio-ak.spotify.com
 0.0.0.0 audio-akp.spotify.com
