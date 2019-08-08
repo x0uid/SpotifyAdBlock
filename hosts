@@ -133,6 +133,7 @@
 0.0.0.0 log.spotify.com
 0.0.0.0 log2.spotify.com
 0.0.0.0 mp3ad.scdn.co
+0.0.0.0 partner-provisioning.spotify.com
 0.0.0.0 partner-service.spotify.com
 0.0.0.0 partner-service-testing.spotify.com
 0.0.0.0 payment-callback.spotify.com
