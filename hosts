@@ -983,6 +983,14 @@
 0.0.0.0 d2o9ozfswytaqz.cloudfront.net
 0.0.0.0 lb1-217593028.us-east-1.elb.amazonaws.com
 0.0.0.0 rp-lb-766892831.us-east-1.elb.amazonaws.com
+0.0.0.0 ec2-34-195-40-20.compute-1.amazonaws.com
+0.0.0.0 ec2-52-202-9-181.compute-1.amazonaws.com
+0.0.0.0 ec2-52-212-113-202.eu-west-1.compute.amazonaws.com
+0.0.0.0 ec2-52-7-112-21.compute-1.amazonaws.com
+0.0.0.0 ec2-54-246-172-197.eu-west-1.compute.amazonaws.com
+0.0.0.0 ec2-54-248-172-197.eu-west-1.compute.amazonaws.com
+0.0.0.0 ec2-54-88-142-76.compute-1.amazonaws.com
+0.0.0.0 ec2-54-88-58-219.compute-1.amazonaws.com
 0.0.0.0 server-54-230-216-203.mrs50.r.cloudfront.net
 0.0.0.0 adserver.adtechus.com
 0.0.0.0 a.adk2x.com
