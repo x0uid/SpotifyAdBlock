@@ -67,11 +67,15 @@
 0.0.0.0 ads-sp-lon.cdn.spotify.com
 0.0.0.0 ads-sp-sto.cdn.spotify.com
 0.0.0.0 adgen-dev.spotify.com
+0.0.0.0 sgwww.spotify.com
 0.0.0.0 adgen.spotify.com
 0.0.0.0 admocker.spotify.com
 0.0.0.0 audio-ak.spotify.com
 0.0.0.0 audio-akp.spotify.com
 0.0.0.0 analytics.spotify.com
+0.0.0.0 surveys.spotify.com
+0.0.0.0 sap-testing.spotify.com
+0.0.0.0 sap.spotify.com
 0.0.0.0 ash-dealer.spotify.com
 0.0.0.0 ash-jumphost-a1.ash.spotify.com
 0.0.0.0 ash-jumphost-a1.ash1.spotify.com
@@ -108,6 +112,7 @@
 0.0.0.0 zaira.lon.spotify.com
 0.0.0.0 zayit.ap.spotify.com
 0.0.0.0 zayit.lon.spotify.com
+0.0.0.0 r620test.lon.spotify.com
 0.0.0.0 analytics-001.lon.spotify.com
 0.0.0.0 analytics-002.lon.spotify.com
 0.0.0.0 analytics-classic.spotify.com
