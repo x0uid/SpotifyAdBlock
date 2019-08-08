@@ -85,6 +85,8 @@
 0.0.0.0 sto3-vmddelivery-b1.sto3.spotify.com
 0.0.0.0 exp-canary.wg.spotify.com
 0.0.0.0 exp.spotify.com
+0.0.0.0 promo.spotify.com
+0.0.0.0 promo-001.lon.spotify.com
 0.0.0.0 exp.wg.spotify.com
 0.0.0.0 assets.spotify.com
 0.0.0.0 audio-cf.spotify.com
@@ -107,6 +109,9 @@
 0.0.0.0 analytics-002.lon.spotify.com
 0.0.0.0 analytics-classic.spotify.com
 0.0.0.0 analytics-preview.spotify.com
+0.0.0.0 premium-code-admin.lon.spotify.com
+0.0.0.0 pub-net-srx-int-testing.spotify.com
+0.0.0.0 pl35t7bb4aabglvz2i3btceznecjh4fka7m6ppyzdthifgcq.obfxt53kpvuicjyib3vacc5db3htskgk62k5tsonipsj2pty.yoyjueb2cieypg5vnrb5jpkuf52xxafpqf4ecynqzuz6s42t.tiox3ktdzfwwbcokrxi6o7huoya6iogdfo7ktcsdhkxakyjw.sg7cexr7oxb2d6ms.er.spo.spotify.com
 0.0.0.0 audio-gc.scdn.co
 0.0.0.0 audio-fa.scdn.co
 0.0.0.0 crusader.scdn.co
@@ -141,6 +146,7 @@
 0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel1.spotify.com
 0.0.0.0 pixel2.spotify.com
+0.0.0.0 pixel-static.spotify.com
 0.0.0.0 va2en.sftcdn.net
 0.0.0.0 upgrade.scdn.co
 0.0.0.0 upgrade.scdn.com
