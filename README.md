@@ -1,5 +1,5 @@
 I will show you how to easily block the servers hosting Spotify ads on your Linux/Mac or Windows machine. 
-This will allow you to listen all day long on a free account without hearing a single ad or being tracked by third party. This trick is very simple, legal and works great.
+This will allow you to listen all day long on a free account without hearing a single ad or being tracked by third party. This trick is very simple, legal and works great.  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40Anis_Muslić)](https://twitter.com/0xUID)
 
 ![ScreenShot](https://blogpirate.net/wp-content/uploads/2017/08/spotify-ad-block.jpg)
 
