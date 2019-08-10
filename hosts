@@ -170,8 +170,10 @@
 0.0.0.0 video-fa-b.cdn.spotify.com
 0.0.0.0 contentclick.akamaized.net
 0.0.0.0 audio-ak-spotify-com.akamaized.net
+0.0.0.0 heads4-ak-spotify-com.akamaized.net
 0.0.0.0 audio-ake.spotify.com.edgesuite.net
 0.0.0.0 audio-akp-spotify-com.akamaized.net
+0.0.0.0 audio4-ak-spotify-com.akamaized.net
 0.0.0.0 audio-ak.spotify.com.edgesuite.net
 0.0.0.0 audio-akp.spotify.com.edgesuite.net
 0.0.0.0 audio4-ak.spotify.com.edgesuite.net
