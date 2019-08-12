@@ -54,6 +54,7 @@
 0.0.0.0 gew-spclient.spotify.com
 0.0.0.0 partneraudiences.spotify.com
 0.0.0.0 wwwtools.spotify.com
+0.0.0.0 zlink.app.spotify.com
 0.0.0.0 generic.wg.spotify.com
 0.0.0.0 ap.gslb.spotify.com
 0.0.0.0 ad-proxy.spotify.com
@@ -125,7 +126,6 @@
 0.0.0.0 audio-gc.scdn.co
 0.0.0.0 audio-fa.scdn.co
 0.0.0.0 crusader.scdn.co
-0.0.0.0 download.scdn.co
 0.0.0.0 r4---sn-5hnekn76.gvt1.com
 0.0.0.0 r4---sn-5hne6nsz.gvt1.com
 0.0.0.0 r5.sn-5hne6n7z.gvt1.com
