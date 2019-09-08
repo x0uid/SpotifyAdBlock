@@ -142,6 +142,7 @@
 0.0.0.0 34.video-ak.cdn.spotify.com
 0.0.0.0 35.video-ak.cdn.spotify.com
 0.0.0.0 3501113.fls.doubleclick.net
+0.0.0.0 35.186.224.53
 0.0.0.0 36.video-ak.cdn.spotify.com
 0.0.0.0 37.video-ak.cdn.spotify.com
 0.0.0.0 3738527.fls.doubleclick.net
@@ -425,6 +426,7 @@
 0.0.0.0 api.comscore.com
 0.0.0.0 api.intercom.io
 0.0.0.0 api.mixpanel.com
+0.0.0.0 api.fastly.com
 0.0.0.0 api.zwizzarmyknife.com
 0.0.0.0 apiskywebbercom-a.akamaihd.net
 0.0.0.0 app.adjust.com
@@ -1545,6 +1547,7 @@
 0.0.0.0 premium-code-admin.lon.spotify.com
 0.0.0.0 proclarity.comscore.com
 0.0.0.0 prod.b.ssl.us-eu.fastlylb.net
+0.0.0.0 prod.www-fastly-com.map.fastly.net
 0.0.0.0 prod.spotify-heads.map.fastlylb.net
 0.0.0.0 prod.spotify.map.fastly.net
 0.0.0.0 prod.spotify.map.fastlylb.net
