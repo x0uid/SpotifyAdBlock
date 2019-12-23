@@ -331,14 +331,16 @@
 0.0.0.0 ad.it.doubleclick.net
 0.0.0.0 ad.jp.doubleclick.net
 0.0.0.0 ad.mo.doubleclick.net
-0.0.0.0 ad.n2434.doubleclick.net
+0.0.0.0 ad.ma.doubleclick.net
 0.0.0.0 ad.nl.doubleclick.net
+0.0.0.0 ad.n2434.doubleclick.net
 0.0.0.0 ad.no.doubleclick.net
 0.0.0.0 ad.nz.doubleclick.net
 0.0.0.0 ad.pl.doubleclick.net
 0.0.0.0 ad.se.doubleclick.net
 0.0.0.0 ad.sg.doubleclick.net
 0.0.0.0 ad.uk.doubleclick.net
+0.0.0.0 ad.uk.mo.doubleclick.net
 0.0.0.0 ad.ve.doubleclick.net
 0.0.0.0 ad.video-ak.cdn.spotify.com
 0.0.0.0 ad.za.doubleclick.net
@@ -876,6 +878,7 @@
 0.0.0.0 feedads.g.doubleclick.net
 0.0.0.0 ff.video-ak.cdn.spotify.com
 0.0.0.0 fls.doubleclick.net
+0.0.0.0 fls.uk.doubleclick.net
 0.0.0.0 fra1-ib.adnxs.com
 0.0.0.0 frcp-hlb.dvgtm.akadns.net
 0.0.0.0 fs.moatads.com
