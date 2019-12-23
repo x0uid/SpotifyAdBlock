@@ -78,7 +78,6 @@
 0.0.0.0 15.video-ak.cdn.spotify.com
 0.0.0.0 151.101.12.246
 0.0.0.0 151.101.16.246
-0.0.0.0 151.101.36.246
 0.0.0.0 1513878.fls.doubleclick.net
 0.0.0.0 153.64.199.104.bc.googleusercontent.com
 0.0.0.0 16.video-ak.cdn.spotify.com
@@ -142,7 +141,6 @@
 0.0.0.0 34.video-ak.cdn.spotify.com
 0.0.0.0 35.video-ak.cdn.spotify.com
 0.0.0.0 3501113.fls.doubleclick.net
-0.0.0.0 35.186.224.53
 0.0.0.0 36.video-ak.cdn.spotify.com
 0.0.0.0 37.video-ak.cdn.spotify.com
 0.0.0.0 3738527.fls.doubleclick.net
@@ -419,6 +417,7 @@
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.spotify.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
+0.0.0.0 ap.gslb.spotify.com
 0.0.0.0 api-iam.intercom.io
 0.0.0.0 api-ping.intercom.io
 0.0.0.0 api.admob.com
@@ -426,7 +425,6 @@
 0.0.0.0 api.comscore.com
 0.0.0.0 api.intercom.io
 0.0.0.0 api.mixpanel.com
-0.0.0.0 api.fastly.com
 0.0.0.0 api.zwizzarmyknife.com
 0.0.0.0 apiskywebbercom-a.akamaihd.net
 0.0.0.0 app.adjust.com
@@ -859,7 +857,9 @@
 0.0.0.0 exnjadgds1.doubleclick.net
 0.0.0.0 exnjmdgda1.doubleclick.net
 0.0.0.0 exnjmdgds1.doubleclick.net
+0.0.0.0 exp-canary.wg.spotify.com
 0.0.0.0 exp.spotify.com
+0.0.0.0 exp.wg.spotify.com
 0.0.0.0 f.admob.com
 0.0.0.0 f0.video-ak.cdn.spotify.com
 0.0.0.0 f1.video-ak.cdn.spotify.com
@@ -918,7 +918,9 @@
 0.0.0.0 gd9.doubleclick.net
 0.0.0.0 ge-0-0-1-edge1.sc9.admob.com
 0.0.0.0 ge-0-0-43-crs1.sc9.admob.com
+0.0.0.0 generic.wg.spotify.com
 0.0.0.0 geo.moatads.com
+0.0.0.0 gew-spclient.spotify.com
 0.0.0.0 gew1-accesspoint-a-5ntt.ap.spotify.com
 0.0.0.0 gew1-accesspoint-b-0d00.ap.spotify.com
 0.0.0.0 gew1-accesspoint-b-3h91.ap.spotify.com
