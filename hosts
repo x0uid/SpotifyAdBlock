@@ -417,6 +417,7 @@
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.spotify.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
+0.0.0.0 ap.gslb.spotify.com
 0.0.0.0 api-iam.intercom.io
 0.0.0.0 api-ping.intercom.io
 0.0.0.0 api.admob.com
