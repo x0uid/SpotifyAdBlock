@@ -462,14 +462,7 @@
 0.0.0.0 apx.moatads.com
 0.0.0.0 ar.voicefive.com
 0.0.0.0 aser.comscore.com
-0.0.0.0 ash-dealer.spotify.com
-0.0.0.0 ash-jumphost-a1.ash.spotify.com
-0.0.0.0 ash-jumphost-a1.ash1.spotify.com
 0.0.0.0 ash-spclient.spotify.com
-0.0.0.0 ash1-apresolve-a2.ash.spotify.com
-0.0.0.0 ash1-apresolve-a2.ash1.spotify.com
-0.0.0.0 ash1-apresolve-a3.ash.spotify.com
-0.0.0.0 ash1-apresolve-a3.ash1.spotify.com
 0.0.0.0 ash2-accesspoint-a1.ap.spotify.com
 0.0.0.0 ash2-accesspoint-a1.ash2.spotify.com
 0.0.0.0 ash2-accesspoint-a10.ap.spotify.com
@@ -638,8 +631,6 @@
 0.0.0.0 ash2-accesspoint-a98.ash2.spotify.com
 0.0.0.0 ash2-accesspoint-a99.ash2.spotify.com
 0.0.0.0 ash2-accesspoint-c1.ash2.spotify.com
-0.0.0.0 ash2-idp-a1.ash2.spotify.com
-0.0.0.0 ash2-idp-a2.ash2.spotify.com
 0.0.0.0 ash2-msproxy-a6.ash2.spotify.com
 0.0.0.0 ash2-weblb-wg1.ash2.spotify.com
 0.0.0.0 ash2-weblb-wg169.ash2.spotify.com
@@ -666,10 +657,6 @@
 0.0.0.0 audio-akp.spotify.com
 0.0.0.0 audio-akp.spotify.com.edgesuite.net
 0.0.0.0 audio-cf.spotify.com
-0.0.0.0 audio-fa.scdn.co
-0.0.0.0 audio-fa.spotify.com
-0.0.0.0 audio-fab.spotify.com
-0.0.0.0 audio-fac-spotify.com
 0.0.0.0 audio-gc.scdn.co
 0.0.0.0 audio-gc.spotify.com
 0.0.0.0 audio-sp-ams.spotifycdn.net
@@ -788,7 +775,6 @@
 0.0.0.0 be.video-ak.cdn.spotify.com
 0.0.0.0 beacon-nf.rubiconproject.com
 0.0.0.0 beacon-nf.rubiconproject.net.akadns.net
-0.0.0.0 beta.spotify.map.fastly.net
 0.0.0.0 beta.spotify.map.fastlylb.net
 0.0.0.0 beta.tune.com
 0.0.0.0 bf.video-ak.cdn.spotify.com
@@ -2087,8 +2073,6 @@
 0.0.0.0 prod.b.ssl.us-eu.fastlylb.net
 0.0.0.0 prod.www-fastly-com.map.fastly.net
 0.0.0.0 prod.spotify-heads.map.fastlylb.net
-0.0.0.0 prod.spotify.map.fastly.net
-0.0.0.0 prod.spotify.map.fastlylb.net
 0.0.0.0 prod8.qlik.com
 0.0.0.0 promo-001.lon.spotify.com
 0.0.0.0 promo.spotify.com
@@ -2306,9 +2290,6 @@
 0.0.0.0 vastx.moatads.com
 0.0.0.0 via.intercom.io
 0.0.0.0 video-ad-stats.googlesyndication.com
-0.0.0.0 video-fa-b.cdn.spotify.com
-0.0.0.0 video-fa.cdn.spotify.com
-0.0.0.0 video-fa.scdn.co
 0.0.0.0 view.adjust.com
 0.0.0.0 vip.sc9.admob.com
 0.0.0.0 viridis.lon2.spotify.com
