@@ -410,7 +410,6 @@
 0.0.0.0 adservice.google.nl
 0.0.0.0 adservice.google.se
 0.0.0.0 adstudio.spotify.com
-0.0.0.0 adstudio-assets.scdn.co
 0.0.0.0 advertisers.l.doubleclick.net
 0.0.0.0 ae.video-ak.cdn.spotify.com
 0.0.0.0 af.video-ak.cdn.spotify.com
@@ -1419,17 +1418,6 @@
 0.0.0.0 gtssl2-ocsp.geotrust.com
 0.0.0.0 gw.admob.com
 0.0.0.0 h.admob.com
-0.0.0.0 heads-ak.spotify.com
-0.0.0.0 heads-ak.spotify.com.edgesuite.net
-0.0.0.0 heads-akp.spotify.com
-0.0.0.0 heads-akp.spotify.com.edgesuite.net
-0.0.0.0 heads-cf.spotify.com
-0.0.0.0 heads-fa.scdn.co
-0.0.0.0 heads-fa.spotify.com
-0.0.0.0 heads-fab.spotify.com
-0.0.0.0 heads-fac.spotify.com
-0.0.0.0 heads4-ak-spotify-com.akamaized.net
-0.0.0.0 heads4-akp.spotify.com.edgesuite.net
 0.0.0.0 hl-display.com
 0.0.0.0 i.admob.com
 0.0.0.0 ia1.comscore.com
