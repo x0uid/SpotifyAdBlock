@@ -1429,7 +1429,6 @@
 0.0.0.0 heads-fab.spotify.com
 0.0.0.0 heads-fac.spotify.com
 0.0.0.0 heads4-ak-spotify-com.akamaized.net
-0.0.0.0 heads4-ak.spotify.com.edgesuite.net
 0.0.0.0 heads4-akp.spotify.com.edgesuite.net
 0.0.0.0 hl-display.com
 0.0.0.0 i.admob.com
@@ -1984,7 +1983,6 @@
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 nexus.intercom.io
 0.0.0.0 ns1.dynamicnetworkservices.net
-0.0.0.0 ns1.fastly.net
 0.0.0.0 ns2.dynamicnetworkservices.net
 0.0.0.0 ns3.dynamicnetworkservices.net
 0.0.0.0 ns4.dynamicnetworkservices.net
