@@ -84,6 +84,7 @@
 0.0.0.0 1742177.fls.doubleclick.net
 0.0.0.0 18.video-ak.cdn.spotify.com
 0.0.0.0 19.video-ak.cdn.spotify.com
+0.0.0.0 192.121.140.177
 0.0.0.0 1a.video-ak.cdn.spotify.com
 0.0.0.0 1b.video-ak.cdn.spotify.com
 0.0.0.0 1c.video-ak.cdn.spotify.com
@@ -121,6 +122,7 @@
 0.0.0.0 3276817.fls.doubleclick.net
 0.0.0.0 33.video-ak.cdn.spotify.com
 0.0.0.0 34.video-ak.cdn.spotify.com
+0.0.0.0 35.186.224.53
 0.0.0.0 35.video-ak.cdn.spotify.com
 0.0.0.0 3501113.fls.doubleclick.net
 0.0.0.0 36.video-ak.cdn.spotify.com
@@ -234,13 +236,11 @@
 0.0.0.0 DNS2.P02.NSONE.NET
 0.0.0.0 DNS2.P05.NSONE.NET
 0.0.0.0 DNS2.P06.NSONE.NET
-0.0.0.0 DNS2.P07.NSONE.NET
 0.0.0.0 DNS2.P08.NSONE.NET
 0.0.0.0 DNS2.P09.NSONE.NET
 0.0.0.0 DNS3.P05.NSONE.NET
 0.0.0.0 DNS3.P08.NSONE.NET
 0.0.0.0 DNS4.P03.NSONE.NET
-0.0.0.0 DNS4.P07.NSONE.NET
 0.0.0.0 DNS4.P08.NSONE.NET
 0.0.0.0 a.adk2x.com
 0.0.0.0 a.admob.com
@@ -735,7 +735,6 @@
 0.0.0.0 audio-sp-dfw6.pscdn.co
 0.0.0.0 audio-sp-fra.pscdn.co
 0.0.0.0 audio-sp-fra-13.pscdn.co
-0.0.0.0 audio-sp-fra2.pscdn.co
 0.0.0.0 audio-sp-fra2-13.pscdn.co
 0.0.0.0 audio-sp-fra26.pscdn.co
 0.0.0.0 audio-sp-fra6.pscdn.co
@@ -925,6 +924,8 @@
 0.0.0.0 cs934.wac.thetacdn.net
 0.0.0.0 cupdates.trusteer.comdl2.pushbulletusercontent.comdyknreymc91ut.cloudfront.netgo.microsoft.comgoogleads.g.doubleclick.netin.getclicky.com
 0.0.0.0 d.admob.com
+0.0.0.0 datasharing.spotify.com
+0.0.0.0 beta.datasharing.spotify.com
 0.0.0.0 d0.video-ak.cdn.spotify.com
 0.0.0.0 d1.video-ak.cdn.spotify.com
 0.0.0.0 d2.video-ak.cdn.spotify.com
@@ -961,7 +962,6 @@
 0.0.0.0 dns1.p03.nsone.net
 0.0.0.0 dns1.p05.nsone.net
 0.0.0.0 dns1.p06.nsone.net
-0.0.0.0 dns1.p07.nsone.net
 0.0.0.0 dns1.p08.nsone.net
 0.0.0.0 dns1.p10.nsone.net
 0.0.0.0 dns2.nsone.net
@@ -973,7 +973,6 @@
 0.0.0.0 dns3.p03.nsone.net
 0.0.0.0 dns3.p04.nsone.net
 0.0.0.0 dns3.p06.nsone.net
-0.0.0.0 dns3.p07.nsone.net
 0.0.0.0 dns3.p09.nsone.net
 0.0.0.0 dns3.p10.nsone.net
 0.0.0.0 dns4.p01.nsone.net
