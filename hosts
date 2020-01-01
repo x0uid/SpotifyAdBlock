@@ -2061,6 +2061,7 @@
 0.0.0.0 partner-service-testing.spotify.com
 0.0.0.0 partner-service.spotify.com
 0.0.0.0 partner.googleadservices.com
+0.0.0.0 partner-links.spotify.com
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partneraudiences.spotify.com
 0.0.0.0 payment-callback.spotify.com
