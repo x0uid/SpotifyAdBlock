@@ -5,6 +5,13 @@ This will allow you to listen all day long on a free account without hearing a s
 
 In order to remove those pesky ads, all we need to do is setup out hosts file to override the DNS for Spotify's ad servers and redirect that traffic to our local machine.  
 
-When the traffic hits out local machine the call will fail and the ad will be skipped.
+When the traffic hits out local machine the call will fail and the tracking third party advertising will be skipped.
 
 Instructions and information can be found here: https://blogpirate.net/2017/08/08/how-to-block-those-nasty-ads-in-spotify-app-in-windows-linux-and-osx/
+
+Pi-hole compatible versions can be found here:
+
+Blocklist: https://gist.github.com/captainhook/863b056c16ec7cf93252943e24b4a0fa
+Whitelist: https://gist.github.com/captainhook/9eb4132d6e58888e37c6bc6c73dd4e60
+Bash script to import whitelist: https://gist.github.com/captainhook/f4
+Credits to: [captainhook](https://github.com/captainhook)
