@@ -65,6 +65,11 @@
 # googlehosted.l.googleusercontent.com                                                                        #
 # redirector.gvt1.com                                                                                         #
 ###############################################################################################################
+# Optional: If you want to listen to music on your TV you need to whitelist this entry                        #
+# tv.scdn.co                                                                                                  #
+#                                                                                                             #
+#                                                                                                             #
+###############################################################################################################
 0.0.0.0 000000000.fls.doubleclick.net
 0.0.0.0 000000.fls.doubleclick.net
 0.0.0.0 000.fls.doubleclick.net
