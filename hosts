@@ -1856,6 +1856,7 @@
 0.0.0.0 iad.comscore.com
 0.0.0.0 i.admob.com
 0.0.0.0 ib.adnxs.com
+0.0.0.0 i.jumptap.com
 0.0.0.0 images.comscore.com
 0.0.0.0 images.fastclick.net
 0.0.0.0 images.millennialmedia.com
@@ -3500,6 +3501,9 @@
 0.0.0.0 w.admob.com
 0.0.0.0 wap.admob.com
 0.0.0.0 waps.admob.com
+0.0.0.0 web63.jumptap.com
+0.0.0.0 web64.jumptap.com
+0.0.0.0 web65.jumptap.com
 0.0.0.0 wendy.admob.com
 0.0.0.0 widget.intercom.io
 0.0.0.0 wildcard.moatads.com.edgekey.net
@@ -3752,6 +3756,11 @@
 0.0.0.0 wpc.f936.edgecastcdn.net
 0.0.0.0 wpc.fa83.edgecastcdn.net
 0.0.0.0 wsp.43a2.edgecastcdn.net
+0.0.0.0 ww13.smartadserver.com
+0.0.0.0 ww234.smartadserver.com
+0.0.0.0 ww264.smartadserver.com
+0.0.0.0 ww362.smartadserver.com
+0.0.0.0 ww55.smartadserver.com
 0.0.0.0 www1.vip.sc9.admob.com
 0.0.0.0 www2.doubleclick.net
 0.0.0.0 www2.qlik.com
@@ -3773,6 +3782,9 @@
 0.0.0.0 www.ui.cp.tune.com
 0.0.0.0 www.upv4.moatads.com
 0.0.0.0 x.admob.com
+0.0.0.0 xe-0-0-3-0.agg1.zur1.ch.m247.com
+0.0.0.0 xe-3-3-1-0.core1.fra2.de.m247.com
+0.0.0.0 xfactor.spotify.com
 0.0.0.0 y.admob.com
 0.0.0.0 yj.moatads.com
 0.0.0.0 y.moatads.com
