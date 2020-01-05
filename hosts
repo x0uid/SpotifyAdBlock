@@ -45,29 +45,35 @@
 #                                                                                                             #
 #                                                                                                             #
 ###############################################################################################################
-# Don't block entries below,                                                                                  #
-# they are needed for Spotify to be fully functional.                                                         #
+# Don't block entries below, they are needed for Spotify to be fully functional.                              #
 # ap.spotify.com                                                                                              #
+# apresolve.spotify.com <-- access point list also used for chromecast                                        #
 # api-spotify.com                                                                                             #
 # api-partner.spotify.com                                                                                     #
 # api-tv.spotify.com                                                                                          #
-# audio-sp.spotify.com                                                                                        #
-# audio-sp-                                                                                                   #
+# ash-dealer.spotify.com <-- Load balancer                                                                    #
+# ash.weblb-wg.dual-gslb.spotify.com <-- Load balancer                                                        #
+# audio-sp.spotify.com  <-- Audio server!                                                                     #
+# audio-fa.spotify.com  <-- Audio server!                                                                     #
 # dealer.spotify.com                                                                                          #
 # dealer-ssl.spotify.com                                                                                      #
 # gslb.spotify.com                                                                                            #
 # open.scdn.co                                                                                                #
-# open.spotify.com                                                                                            #
-# play.spotify.com                                                                                            #
+# open.spotify.com  <-- web player, you can block this for app only                                           #
+# play.spotify.com  <-- web player, you can block this for app only                                           #
 # spclient.spotify.com                                                                                        #
 # sto3.spotify.com                                                                                            #
-# wg.spotify.com (*) Breaks entire app                                                                        #
-# geo3.ggpht.com                                                                                              #
-# googlehosted.l.googleusercontent.com                                                                        #
+# wg.spotify.com <-- (*) Breaks entire app                                                                    #
+# geo3.ggpht.com <-- Just dont block!                                                                         #
+# googlehosted.l.googleusercontent.com <-- Just dont block!                                                   #
 # redirector.gvt1.com                                                                                         #
 ###############################################################################################################
-# Optional: If you want to listen to music on your TV you need to whitelist this entry                        #
+# Optional: If you want to listen to music on your TV, or for cover art example.                              #
 # tv.scdn.co                                                                                                  #
+# i.scdn.co <-- album covers                                                                                  #
+# o.scdn.co <-- more images                                                                                   #
+# p.scdn.co <-- maybe profile images                                                                          #
+# t.scdn.co <-- maybe images for charts                                                                       #
 #                                                                                                             #
 #                                                                                                             #
 ###############################################################################################################
