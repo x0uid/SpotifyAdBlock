@@ -31,6 +31,7 @@
 # Spotify's Anti-Adveritsing blocking servers, tricking services to stop music services (DONT BLOCK THESE!):  #
 #                                                                                                             #
 # gcdn.2mdn.net                                                                                               #
+# r9---sn-n4v7kn76.c.2mdn.net                                                                                 #
 # gew1-accesspoint-b-zzfg.ap.spotify.com                                                                      #
 # ns1.p23.dynect.net                                                                                          #
 # ns3.p23.dynect.net                                                                                          #
@@ -3004,7 +3005,6 @@
 0.0.0.0 r9---sn-a5mekm76.c.2mdn.net
 0.0.0.0 r9---sn-axq7sn76.c.2mdn.net
 0.0.0.0 r9---sn-c0q7ln76.c.2mdn.net
-0.0.0.0 r9---sn-n4v7kn76.c.2mdn.net
 0.0.0.0 r9---sn-vgqs7n76.c.2mdn.net
 0.0.0.0 r9.sn-vgqs7n76.c.2mdn.net
 0.0.0.0 r9---sn-vgqsen76.c.2mdn.net
@@ -3016,8 +3016,6 @@
 0.0.0.0 request.api.cp.tune.com
 0.0.0.0 rmd.admob.com
 0.0.0.0 rp-lb-766892831.us-east-1.elb.amazonaws.com
-0.0.0.0 s0.2mdn.net
-0.0.0.0 s0.2mdn.net
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s0-2mdn-net.l.google.com
 0.0.0.0 s0qa.2mdn.net
