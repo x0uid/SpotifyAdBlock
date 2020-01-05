@@ -11,7 +11,7 @@ Instructions and information can be found here: https://blogpirate.net/2017/08/0
 
 Pi-hole compatible versions can be found here:
 
-Blocklist: https://gist.github.com/captainhook/863b056c16ec7cf93252943e24b4a0fa
-Whitelist: https://gist.github.com/captainhook/9eb4132d6e58888e37c6bc6c73dd4e60
-Bash script to import whitelist: https://gist.github.com/captainhook/f4
+Blocklist: https://gist.github.com/captainhook/863b056c16ec7cf93252943e24b4a0fa  
+Whitelist: https://gist.github.com/captainhook/9eb4132d6e58888e37c6bc6c73dd4e60  
+Bash script to import whitelist: https://gist.github.com/captainhook/f4ccfc82dc6696270d62b54b13f871c4  
 Credits to: [captainhook](https://github.com/captainhook)
