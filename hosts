@@ -469,6 +469,7 @@
 0.0.0.0 9e.video-ak.cdn.spotify.com
 0.0.0.0 9f.video-ak.cdn.spotify.com
 0.0.0.0 a0.video-ak.cdn.spotify.com
+0.0.0.0 a1197.dscc.akamai.net
 0.0.0.0 a1294.w20.akamai.net
 0.0.0.0 a1599.g.akamai.net
 0.0.0.0 a1767.g.akamai.net
@@ -1306,6 +1307,7 @@
 0.0.0.0 ds2.edgecastcdn.net
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 dsvn.edgecastcdn.net
+0.0.0.0 dualstack.spotify.map.fastly.net
 0.0.0.0 dzp5etodm9s0j.cloudfront.net
 0.0.0.0 e0.video-ak.cdn.spotify.com
 0.0.0.0 e1.video-ak.cdn.spotify.com
@@ -3240,6 +3242,13 @@
 0.0.0.0 smtp.admob.com
 0.0.0.0 sn-vgqs7n76.c.googlesyndication.com
 0.0.0.0 soma.smaato.net
+0.0.0.0 spotify.backtrace.io
+0.0.0.0 spotify.c3metrics.com
+0.0.0.0 spotify.co1.qualtrics.com
+0.0.0.0 spotify.deliveryengine.adswizz.com
+0.0.0.0 spotify.demdex.net
+0.0.0.0 spotify.qualtrics.com
+0.0.0.0 spotify.sp.backtrace.io
 0.0.0.0 spotxchange.com
 0.0.0.0 stage.tune.com
 0.0.0.0 stardoll.com
@@ -3769,6 +3778,7 @@
 0.0.0.0 www.admob.com.akadns.net
 0.0.0.0 www.comscore.com
 0.0.0.0 www.cp.tune.com
+0.0.0.0 www.dev.spotify.pinterest.adtz.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.intercom.io
@@ -3777,6 +3787,8 @@
 0.0.0.0 www.mycomscore.net
 0.0.0.0 www.r1---sn-buq-njal.c.2mdn.net
 0.0.0.0 www.r5---sn-buq-njal.c.2mdn.net
+0.0.0.0 www.spotify.facebook-ads.adtz.com
+0.0.0.0 www.spotify.pinterest.adtz.com
 0.0.0.0 www.spotx.tv
 0.0.0.0 wwwtools.spotify.com
 0.0.0.0 www.ui.cp.tune.com
@@ -3799,4 +3811,3 @@
 0.0.0.0 zhcn.admob.com
 0.0.0.0 zlink.app.spotify.com
 0.0.0.0 z.moatads.com
-
