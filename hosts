@@ -891,6 +891,7 @@
 0.0.0.0 audio-ak.spotify.com.edgesuite.net
 0.0.0.0 audio-ak.spotify.com.eip.akadns.net
 0.0.0.0 audio-cf.spotify.com
+0.0.0.0 audio-ec.spotify.com
 0.0.0.0 audio-gc.scdn.co
 0.0.0.0 audio-gc.spotify.com
 0.0.0.0 audio-sp-ams-13.pscdn.co
@@ -1848,6 +1849,7 @@
 0.0.0.0 heads-ak.spotify.com
 0.0.0.0 heads-ak.spotify.com.edgesuite.net
 0.0.0.0 heads-cf.spotify.com
+0.0.0.0 heads-ec.spotify.com
 0.0.0.0 heads-fab.spotify.com
 0.0.0.0 heads-fac.spotify.com
 0.0.0.0 heads-fa.scdn.co
@@ -2534,6 +2536,7 @@
 0.0.0.0 prod8.qlik.com
 0.0.0.0 prod.b.ssl.us-eu.fastlylb.net
 0.0.0.0 prod.spotify-heads.map.fastlylb.net
+0.0.0.0 prod.spotify.map.fastlylb.net
 0.0.0.0 prod.www-fastly-com.map.fastly.net
 0.0.0.0 promo-001.lon.spotify.com
 0.0.0.0 promo.spotify.com
