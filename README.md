@@ -20,4 +20,4 @@ Credits to: [captainhook](https://github.com/captainhook)
 I have maintained this ad-blocking list because I am passionate about this, and i think u have all the right to protect your privacy while enjoying music. 
 Donations are one of the many ways to support what I do.
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HT5XSPS3S88KQ)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C7CEG3BFRDPSN)
