@@ -15,3 +15,9 @@ Blocklist: https://gist.github.com/captainhook/863b056c16ec7cf93252943e24b4a0fa
 Whitelist: https://gist.github.com/captainhook/9eb4132d6e58888e37c6bc6c73dd4e60  
 Bash script to import whitelist: https://gist.github.com/captainhook/f4ccfc82dc6696270d62b54b13f871c4  
 Credits to: [captainhook](https://github.com/captainhook)
+
+## Buy me a coffee
+I have maintained this ad-blocking list because I am passionate about this, and i think u have all the right to protect your privacy while enjoying music. 
+Donations are one of the many ways to support what I do.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HT5XSPS3S88KQ)
