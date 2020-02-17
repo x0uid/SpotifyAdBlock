@@ -580,6 +580,9 @@
 0.0.0.0 adservice.google.de
 0.0.0.0 adservice.google.nl
 0.0.0.0 adservice.google.se
+0.0.0.0 adsgtm-dev.spotify.com
+0.0.0.0 adsgtm-sandbox.spotify.com
+0.0.0.0 adsgtm.spotify.com
 0.0.0.0 ads-fa.cdn.spotify.com
 0.0.0.0 ads-fa.spotify.com
 0.0.0.0 ads.flurry.com
