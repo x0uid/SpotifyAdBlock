@@ -46,7 +46,6 @@
 #                                                                                                             #
 ###############################################################################################################
 # Don't block entries below, they are needed for Spotify to be fully functional.                              #
-# ap.spotify.com                                                                                              #
 # apresolve.spotify.com <-- access point list also used for chromecast                                        #
 # api-spotify.com                                                                                             #
 # api-partner.spotify.com                                                                                     #
@@ -659,6 +658,7 @@
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.spotify.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
+0.0.0.0 ap.spotify.com
 0.0.0.0 api-iam.intercom.io
 0.0.0.0 api-ping.intercom.io
 0.0.0.0 api.admob.com
