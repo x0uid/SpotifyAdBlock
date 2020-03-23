@@ -330,12 +330,12 @@
 0.0.0.0 3a.video-ak.cdn.spotify.com
 0.0.0.0 3b.video-ak.cdn.spotify.com
 0.0.0.0 3c.video-ak.cdn.spotify.com
-0.0.0.0 3d.video-ak.cdn.spotify.com
 0.0.0.0 3ded44bd838404a6a3f3d7333aa65498.safeframe.googlesyndication.com
+0.0.0.0 3d.video-ak.cdn.spotify.com
 0.0.0.0 3e.video-ak.cdn.spotify.com
 0.0.0.0 3f.video-ak.cdn.spotify.com
-0.0.0.0 3yuchfko7lnu7cixkjpxxvwlzqbqeaqbaeaq.a.e.e5.sk
 0.0.0.0 3yfsuaacaakmkd2oahbq6twsaqaaaxilqdanemmjxrjasaaaafd5hyq3aaaaa2x.wli2qcaawaajqbaqmowtopnmdlkyb4ro6okfogq2facv7kaa.a.j.e5.sk
+0.0.0.0 3yuchfko7lnu7cixkjpxxvwlzqbqeaqbaeaq.a.e.e5.sk
 0.0.0.0 40.187.197.104.bc.googleusercontent.com
 0.0.0.0 40.217.211.130.bc.googleusercontent.com
 0.0.0.0 40.video-ak.cdn.spotify.com
@@ -515,7 +515,6 @@
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ad.de.doubleclick.net
 0.0.0.0 ad.dk.doubleclick.net
-0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ad-emea.doubleclick.net
@@ -1848,6 +1847,7 @@
 0.0.0.0 gew1-accesspoint-b-n2b0.ap.spotify.com
 0.0.0.0 gew1-accesspoint-b-p520.ap.spotify.com
 0.0.0.0 gew1-accesspoint-b-zg10.ap.spotify.com
+0.0.0.0 gnmcuaacaakmol2pahcs6t6saqaaaxilqdanemmjxrjasaaaahj6dya3aaaaa7y.b77xacaawaajqbvhcmj4xxlnohivrgm2ur2d4k2jpejuxcbi.a.j.e5.sk
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservices.com
@@ -1910,6 +1910,7 @@
 0.0.0.0 jsonp.moatads.com
 0.0.0.0 k.admob.com
 0.0.0.0 keyframes-fa.cdn.spotify.com
+0.0.0.0 kp2suaacaakmj32nahbo6tosaqaaaxilqdanemmjxrjasaaaag7fv2a3aaaabjl.binbacaawaajqatb4x3i66waeadf7xqrgepqndcdrnohlybi.a.j.e5.sk
 0.0.0.0 labs.comscore.com
 0.0.0.0 labs.tune.com
 0.0.0.0 lab.tune.com
@@ -2453,6 +2454,7 @@
 0.0.0.0 ns6.dynamicnetworkservices.net
 0.0.0.0 ns7.dynamicnetworkservices.net
 0.0.0.0 o.admob.com
+0.0.0.0 omccuaacaakmkd2oahbq6twsaqaaaxilqdanemmjxrjasaaaaextjyq3aaaab7k.ciubqcaawaajqbrhq23raq4c2k3ywe2lj2xsp2wyxo2wgoaa.a.j.e5.sk
 0.0.0.0 o-o.preferred.kazakhtel-tse1.v17.cache.c.googlesyndication.com
 0.0.0.0 o-o.preferred.kazakhtel-tse1.v17.lscache2.c.2mdn.net
 0.0.0.0 o-o.preferred.kazakhtel-tse1.v1.lscache3.c.2mdn.net
@@ -2515,7 +2517,6 @@
 0.0.0.0 optimize.doubleclick.net
 0.0.0.0 ord.comscore.com
 0.0.0.0 orientation.internal.intercom.io
-0.0.0.0 omccuaacaakmkd2oahbq6twsaqaaaxilqdanemmjxrjasaaaaextjyq3aaaab7k.ciubqcaawaajqbrhq23raq4c2k3ywe2lj2xsp2wyxo2wgoaa.a.j.e5.sk
 0.0.0.0 outlook.office365.comp34-keyvalueservice.icloud.compagead2.googlesyndication.com
 0.0.0.0 p1.vip.sc9.admob.com
 0.0.0.0 p.admob.com
@@ -3832,3 +3833,4 @@
 0.0.0.0 zhcn.admob.com
 0.0.0.0 zlink.app.spotify.com
 0.0.0.0 z.moatads.com
+
