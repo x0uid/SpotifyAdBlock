@@ -3149,6 +3149,7 @@ sb.scorecardresearch.com
 sb.voicefive.com
 sc1.admob.com
 sc9.admob.com
+scdnco.spotify.map.fastly.net
 scontent.xx.fbcdn.net
 sdcdn.com
 search.spotxchange.com
