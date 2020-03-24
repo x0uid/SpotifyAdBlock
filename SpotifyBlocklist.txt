@@ -2611,6 +2611,7 @@ r1---sn-5hne6nlr.c.2mdn.net
 r1---sn-5hne6ns6.c.2mdn.net
 r1---sn-5hne6nsd.c.2mdn.net
 r1---sn-5hne6nsk.c.2mdn.net
+r1---sn-5hne6nsk.gvt1.com
 r1---sn-5hne6nsr.c.2mdn.net
 r1---sn-5hne6nsz.c.2mdn.net
 r1---sn-5hnedn7l.c.2mdn.net
