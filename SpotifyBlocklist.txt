@@ -2801,6 +2801,7 @@ r3---sn-5hne6nsk.c.2mdn.net
 r3---sn-5hne6nsr.c.2mdn.net
 r3---sn-5hne6nsz.c.2mdn.net
 r3---sn-5hnedn7e.c.2mdn.net
+r3---sn-5hnedn7e.gvt1.com
 r3.sn-5hnedn7e.c.googlesyndication.com
 r3---sn-5hnedn7l.c.2mdn.net
 r3---sn-5hnedn7s.c.2mdn.net
