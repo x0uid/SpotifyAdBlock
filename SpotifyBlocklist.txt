@@ -1088,6 +1088,7 @@ comscorenetworks.net
 comscore.org
 configuration.ma.tune.com
 content.bitsontherun.com
+content.invisioncic.com
 contentcache-a.akamaihd.net
 contentclick.akamaized.net
 core1.dca.edgecastcdn.net
