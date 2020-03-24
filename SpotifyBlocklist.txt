@@ -2614,6 +2614,7 @@ r1---sn-5hne6nsk.c.2mdn.net
 r1---sn-5hne6nsr.c.2mdn.net
 r1---sn-5hne6nsz.c.2mdn.net
 r1---sn-5hnedn7l.c.2mdn.net
+r1---sn-5hnedn7l.gvt1.com
 r1---sn-5hnekn76.c.2mdn.net
 r1.sn-5hnekn76.c.2mdn.net
 r1---sn-5hnekn7d.c.2mdn.net
@@ -2876,6 +2877,7 @@ r3---sn-vgqsen76.c.2mdn.net
 r3---sn-vgqsener.c.googlesyndication.com
 r3---sn-vgqsenl7.c.googlesyndication.com
 r3---sn-vgqskn76.c.2mdn.net
+r3---sn-5hne6nlr.gvt1.com
 r3.sn-vgqskn76.c.2mdn.net
 r3---sn-vgqsrn76.c.2mdn.net
 r3.sn-vgqsrn76.c.2mdn.net
