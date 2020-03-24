@@ -495,6 +495,7 @@ ad.nz.doubleclick.net
 ad.pl.doubleclick.net
 ad-proxy.spotify.com
 ads.admob.com
+ads-uk.spotify.com
 ads-akp.spotify.com
 ads-br.spotify.com
 ads-ca.spotify.com
@@ -583,6 +584,7 @@ apiskywebbercom-a.akamaihd.net
 api.wac.0367.edgecastcdn.net
 api.wac.4867.edgecastcdn.net
 api.zwizzarmyknife.com
+apex.spotify.com
 app1.ams.0212.edgecastcdn.net
 app1.ams.0de9.edgecastcdn.net
 app1.cdg.04f1.edgecastcdn.net
@@ -1234,6 +1236,7 @@ dns4.p06.nsone.net
 DNS4.P08.NSONE.NET
 dns4.p09.nsone.net
 dns4.p10.nsone.net
+dnsbl-1.uceprotect.net
 domains.googlesyndication.com
 doubleclick.com
 doubleclick.de
@@ -3748,6 +3751,7 @@ y.moatads.com
 yt.moatads.com
 yts.moatads.com
 z.admob.com
+zapp.spotify.com
 zaira.lon2.spotify.com
 zaira.lon.spotify.com
 zayit.ap.spotify.com
