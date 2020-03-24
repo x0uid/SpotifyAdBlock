@@ -65,7 +65,7 @@
 # wg.spotify.com <-- (*) Breaks entire app                                                                    #
 # geo3.ggpht.com <-- Just dont block!                                                                         #
 # googlehosted.l.googleusercontent.com <-- Just dont block!                                                   #
-# redirector.gvt1.com                                                                                         #
+# redirector.gvt1.com <-- prevents installation of Firefox & Chrome extensions                                #
 ###############################################################################################################
 # Optional: If you want to listen to music on your TV, or for cover art example.                              #
 # tv.scdn.co                                                                                                  #
