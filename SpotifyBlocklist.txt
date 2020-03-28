@@ -2481,6 +2481,7 @@ proclarity.comscore.com
 prod8.qlik.com
 prod.b.ssl.us-eu.fastlylb.net
 prod.spotify-heads.map.fastlylb.net
+prod.spotify.map.fastly.net
 prod.spotify.map.fastlylb.net
 prod.www-fastly-com.map.fastly.net
 promo-001.lon.spotify.com
@@ -3158,6 +3159,7 @@ sb.scorecardresearch.com
 sb.voicefive.com
 sc1.admob.com
 sc9.admob.com
+beta.spotify.map.fastly.net
 scdnco.spotify.map.fastly.net
 scontent.xx.fbcdn.net
 sdcdn.com
