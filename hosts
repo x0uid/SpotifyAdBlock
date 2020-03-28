@@ -2559,6 +2559,7 @@
 0.0.0.0 prod8.qlik.com
 0.0.0.0 prod.b.ssl.us-eu.fastlylb.net
 0.0.0.0 prod.spotify-heads.map.fastlylb.net
+0.0.0.0 prod.spotify.map.fastly.net
 0.0.0.0 prod.spotify.map.fastlylb.net
 0.0.0.0 prod.www-fastly-com.map.fastly.net
 0.0.0.0 promo-001.lon.spotify.com
@@ -3236,6 +3237,7 @@
 0.0.0.0 sb.voicefive.com
 0.0.0.0 sc1.admob.com
 0.0.0.0 sc9.admob.com
+0.0.0.0 beta.spotify.map.fastly.net
 0.0.0.0 scdnco.spotify.map.fastly.net
 0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 sdcdn.com
@@ -3844,4 +3846,3 @@
 0.0.0.0 zhcn.admob.com
 0.0.0.0 zlink.app.spotify.com
 0.0.0.0 z.moatads.com
-
