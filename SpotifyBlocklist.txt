@@ -3283,6 +3283,7 @@ vastx.moatads.com
 via.intercom.io
 video-ad-stats.googlesyndication.com
 video-akp-cdn-spotify-com.akamaized.net
+video-fa.scdn.co
 view.adjust.com
 vip.sc9.admob.com
 viridis.lon2.spotify.com
