@@ -1829,6 +1829,7 @@ intercom.io
 internal.akadns.net
 internal.intercom.io
 ipinfo.io
+ipv4.scdnco.spotify.map.fastly.net
 iv.doubleclick.net
 j.admob.com
 jethrodata.qlik.com
@@ -2718,6 +2719,7 @@ r2---sn-5hne6n7z.c.2mdn.net
 r2---sn-5hne6nlk.c.2mdn.net
 r2---sn-5hne6ns6.c.2mdn.net
 r2---sn-5hne6nsd.c.2mdn.net
+r2---sn-5hne6nsr.gvt1.com
 r2---sn-5hne6nsy.c.2mdn.net
 r2---sn-5hne6nsz.c.2mdn.net
 r2---sn-5hnedn7l.c.2mdn.net
@@ -2971,6 +2973,7 @@ r5---sn-5goeen76.c.2mdn.net
 r5---sn-5hne6n7s.c.2mdn.net
 r5---sn-5hne6n7z.c.2mdn.net
 r5.sn-5hne6n7z.gvt1.com
+r5---sn-5hne6ns6.gvt1.com
 r5---sn-5hne6nlk.c.2mdn.net
 r5---sn-5hne6nlr.c.2mdn.net
 r5---sn-5hne6nsd.c.2mdn.net
