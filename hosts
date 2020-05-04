@@ -1907,6 +1907,7 @@
 0.0.0.0 internal.akadns.net
 0.0.0.0 internal.intercom.io
 0.0.0.0 ipinfo.io
+0.0.0.0 ipv4.scdnco.spotify.map.fastly.net
 0.0.0.0 iv.doubleclick.net
 0.0.0.0 j.admob.com
 0.0.0.0 jethrodata.qlik.com
@@ -2796,6 +2797,7 @@
 0.0.0.0 r2---sn-5hne6nlk.c.2mdn.net
 0.0.0.0 r2---sn-5hne6ns6.c.2mdn.net
 0.0.0.0 r2---sn-5hne6nsd.c.2mdn.net
+0.0.0.0 r2---sn-5hne6nsr.gvt1.com
 0.0.0.0 r2---sn-5hne6nsy.c.2mdn.net
 0.0.0.0 r2---sn-5hne6nsz.c.2mdn.net
 0.0.0.0 r2---sn-5hnedn7l.c.2mdn.net
@@ -3049,6 +3051,7 @@
 0.0.0.0 r5---sn-5hne6n7s.c.2mdn.net
 0.0.0.0 r5---sn-5hne6n7z.c.2mdn.net
 0.0.0.0 r5.sn-5hne6n7z.gvt1.com
+0.0.0.0 r5---sn-5hne6ns6.gvt1.com
 0.0.0.0 r5---sn-5hne6nlk.c.2mdn.net
 0.0.0.0 r5---sn-5hne6nlr.c.2mdn.net
 0.0.0.0 r5---sn-5hne6nsd.c.2mdn.net
