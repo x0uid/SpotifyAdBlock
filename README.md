@@ -7,8 +7,6 @@ In order to remove those pesky ads, all we need to do is setup out hosts file to
 
 When the traffic hits out local machine the call will fail and the tracking third party advertising will be skipped.
 
-Instructions and information can be found here: https://blogpirate.net/2017/08/08/how-to-block-those-nasty-ads-in-spotify-app-in-windows-linux-and-osx/
-
 Pi-hole compatible versions can be found here:
 
 Blocklist: https://github.com/x0uid/SpotifyAdBlock/blob/master/SpotifyBlocklist.txt  
