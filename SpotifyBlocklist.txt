@@ -826,7 +826,6 @@ audio-ak.spotify.com.edgesuite.net
 audio-ak.spotify.com.eip.akadns.net
 audio-cf.spotify.com
 audio-ec.spotify.com
-audio-fa.scdn.co # do not block while using chromecast
 audio-gc.scdn.co
 audio-gc.spotify.com
 audio-sp-ams-13.pscdn.co
