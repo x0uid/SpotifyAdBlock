@@ -822,7 +822,6 @@ audio-akp.spotify.com
 audio-akp-spotify-com.akamaized.net
 audio-akp.spotify.com.edgesuite.net
 audio-ak.spotify.com
-audio-ak-spotify-com.akamaized.net
 audio-ak.spotify.com.edgesuite.net
 audio-ak.spotify.com.eip.akadns.net
 audio-cf.spotify.com
