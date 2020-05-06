@@ -904,7 +904,6 @@
 0.0.0.0 audio-ak.spotify.com.eip.akadns.net
 0.0.0.0 audio-cf.spotify.com
 0.0.0.0 audio-ec.spotify.com
-0.0.0.0 audio-fa.scdn.co # do not block while using chromecast
 0.0.0.0 audio-gc.scdn.co
 0.0.0.0 audio-gc.spotify.com
 0.0.0.0 audio-sp-ams-13.pscdn.co
