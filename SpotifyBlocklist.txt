@@ -1829,7 +1829,6 @@ intercom.io
 internal.akadns.net
 internal.intercom.io
 ipinfo.io
-ipv4.scdnco.spotify.map.fastly.net
 iv.doubleclick.net
 j.admob.com
 jethrodata.qlik.com
@@ -3165,7 +3164,6 @@ sb.voicefive.com
 sc1.admob.com
 sc9.admob.com
 beta.spotify.map.fastly.net
-scdnco.spotify.map.fastly.net
 scontent.xx.fbcdn.net
 sdcdn.com
 search.spotxchange.com
