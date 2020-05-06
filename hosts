@@ -1907,7 +1907,6 @@
 0.0.0.0 internal.akadns.net
 0.0.0.0 internal.intercom.io
 0.0.0.0 ipinfo.io
-0.0.0.0 ipv4.scdnco.spotify.map.fastly.net
 0.0.0.0 iv.doubleclick.net
 0.0.0.0 j.admob.com
 0.0.0.0 jethrodata.qlik.com
@@ -3243,7 +3242,6 @@
 0.0.0.0 sc1.admob.com
 0.0.0.0 sc9.admob.com
 0.0.0.0 beta.spotify.map.fastly.net
-0.0.0.0 scdnco.spotify.map.fastly.net
 0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 sdcdn.com
 0.0.0.0 search.spotxchange.com
