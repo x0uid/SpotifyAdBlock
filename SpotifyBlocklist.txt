@@ -1785,6 +1785,7 @@ gtssl2-ocsp.geotrust.com
 gw.admob.com
 h.admob.com
 heads4-akp.spotify.com.edgesuite.net
+heads4-ak.spotify.com.edgesuite.net
 heads4-ak-spotify-com.akamaized.net
 heads-akp.spotify.com
 heads-akp.spotify.com.edgesuite.net
