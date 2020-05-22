@@ -2885,6 +2885,8 @@ r3---sn-vgqsener.c.googlesyndication.com
 r3---sn-vgqsenl7.c.googlesyndication.com
 r3---sn-vgqskn76.c.2mdn.net
 r3---sn-5hne6nlr.gvt1.com
+r5.sn-5hnednlr.gvt1.com
+r5---sn-5hnednlr.gvt1.com
 r3.sn-vgqskn76.c.2mdn.net
 r3---sn-vgqsrn76.c.2mdn.net
 r3.sn-vgqsrn76.c.2mdn.net
