@@ -9,7 +9,7 @@ When the traffic hits out local machine the call will fail and the tracking thir
 
 Download & open [**hosts**](https://github.com/x0uid/SpotifyAdBlock/blob/master/hosts) file using your favorite text editor. 
 
-#**For Windows 10 & 8:**
+**For Windows 10 & 8:**
 
 *Press the Windows key.*
 *Type Notepad in the search field.*
@@ -17,14 +17,14 @@ Download & open [**hosts**](https://github.com/x0uid/SpotifyAdBlock/blob/master/
 *From Notepad, open the following file: c:\Windows\System32\Drivers\etc\hosts*
 *Make the necessary changes to the file. Click File > Save to save your changes.*
 
-#**For Linux:**
+**For Linux:**
 
 *Open a terminal window.*
 *Open the hosts file in a text editor (you can use any text editor) by typing the following line:*
 
 *sudo nano /etc/hosts*
 
-#**For Mac OS X 10.6 through 10.12:**
+**For Mac OS X 10.6 through 10.12:**
 
 *Open Applications > Utilities > Terminal.*
 *Open the hosts file by typing the following line in the terminal window:*
