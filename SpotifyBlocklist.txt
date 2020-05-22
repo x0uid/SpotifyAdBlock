@@ -407,7 +407,7 @@ a2-19-66-11.deploy.static.akamaitechnologies.com
 a23-45-105-248.deploy.static.akamaitechnologies.com
 a23-54-115-202.deploy.static.akamaitechnologies.com
 a297.c.akamai.net
-a297.c.akamai.net
+a297.dscc.akamai.net
 a2.video-ak.cdn.spotify.com
 a301.w62d.akamai.net
 a3-19-66-11.deploy.static.akamaitechnologies.com
