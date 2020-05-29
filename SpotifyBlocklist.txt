@@ -1173,6 +1173,8 @@ d2nxq2uap88usk.cloudfront.net
 d2o9ozfswytaqz.cloudfront.net
 d2qv82yc3u9tc7.cloudfront.net
 d2.video-ak.cdn.spotify.com
+d3a05hlefeavf4.cloudfront.net
+d3qakja7plm6sb.cloudfront.net 
 d361oi6ppvq2ym.cloudfront.net
 d3anogn3pbtk4v.cloudfront.net
 d3oltyb66oj2v8.cloudfront.net
@@ -1250,6 +1252,7 @@ ds1.edgecastcdn.net
 ds2.edgecastcdn.net
 ds.serving-sys.com
 dsvn.edgecastcdn.net
+drpcxl6pg3tfr.cloudfront.net
 dsum-sec.casalemedia.com
 dualstack.spotify.map.fastly.net
 dzp5etodm9s0j.cloudfront.net
