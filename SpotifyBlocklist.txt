@@ -1056,6 +1056,7 @@ cdn1.wac.8167.edgecastcdn.net
 cdn2.wac.2817.edgecastcdn.net
 cdn.adnxs.com
 cdncache2-a.akamaihd.net
+cdn.greenhousegroup.com
 cdn.fastclick.net 
 cdn.ravenjs.com
 cdnstats-a.akamaihd.net
@@ -1165,6 +1166,7 @@ cs977204322.wpc.edgecastcdn.net
 cupdates.trusteer.comdl2.pushbulletusercontent.comdyknreymc91ut.cloudfront.netgo.microsoft.comgoogleads.g.doubleclick.netin.getclicky.com
 d0.video-ak.cdn.spotify.com
 d1.video-ak.cdn.spotify.com
+d1s2gywhdujjj3.cloudfront.net
 d2bgg7rjywcwsy.cloudfront.net
 d2gi7ultltnc2u.cloudfront.net
 d2nxq2uap88usk.cloudfront.net
@@ -1248,6 +1250,7 @@ ds1.edgecastcdn.net
 ds2.edgecastcdn.net
 ds.serving-sys.com
 dsvn.edgecastcdn.net
+dsum-sec.casalemedia.com
 dualstack.spotify.map.fastly.net
 dzp5etodm9s0j.cloudfront.net
 e0.video-ak.cdn.spotify.com
@@ -1286,6 +1289,7 @@ eip-ntt.audio-ak.spotify.com.akahost.net
 eip-onnet.audio-ak.spotify.com.akahost.net
 eip-tata.audio-ak.spotify.com.akahost.net
 ejs.moatads.com
+encrypted-tbn0.gstatic.com
 eng.admob.com
 engineering.intercom.io
 eu-gmtdmp.gd1.mookie1.com
@@ -1803,7 +1807,9 @@ ia2.comscore.com
 iad.comscore.com
 i.admob.com
 ib.adnxs.com
+ib.anycast.adnxs.com
 i.jumptap.com
+image6.pubmatic.com
 images.comscore.com
 images.fastclick.net
 images.millennialmedia.com
@@ -2227,6 +2233,7 @@ m.admob.com
 mail2.comscore.com
 malena.lon2.spotify.com
 marketer.comscore.com
+match.adsrvr.org
 ma.tune.com
 m.de.2mdn.net
 m.doubleclick.net
@@ -2489,6 +2496,7 @@ promo-001.lon.spotify.com
 promo.spotify.com
 pschedlb01.lga02.nsone.net
 pt.admob.com
+pugm22000nfc.pubmatic.com
 pubads.g.doubleclick.net
 pub-net-srx-int-testing.spotify.com
 px.moatads.com
