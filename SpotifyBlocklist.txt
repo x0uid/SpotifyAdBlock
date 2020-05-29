@@ -3744,6 +3744,7 @@ www.cp.tune.com
 www.dev.spotify.pinterest.adtz.com
 www.googleadservices.com
 www.googletagservices.com
+www-google-analytics.l.google.com
 www.intercom.io
 www.mixpanel.com
 www.moatads.com
