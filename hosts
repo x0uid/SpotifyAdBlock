@@ -1134,6 +1134,7 @@
 0.0.0.0 cdn2.wac.2817.edgecastcdn.net
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 cdncache2-a.akamaihd.net
+0.0.0.0 cdn.greenhousegroup.com
 0.0.0.0 cdn.fastclick.net 
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 cdnstats-a.akamaihd.net
@@ -1243,6 +1244,7 @@
 0.0.0.0 cupdates.trusteer.comdl2.pushbulletusercontent.comdyknreymc91ut.cloudfront.netgo.microsoft.comgoogleads.g.doubleclick.netin.getclicky.com
 0.0.0.0 d0.video-ak.cdn.spotify.com
 0.0.0.0 d1.video-ak.cdn.spotify.com
+0.0.0.0 d1s2gywhdujjj3.cloudfront.net
 0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
 0.0.0.0 d2gi7ultltnc2u.cloudfront.net
 0.0.0.0 d2nxq2uap88usk.cloudfront.net
@@ -1326,6 +1328,7 @@
 0.0.0.0 ds2.edgecastcdn.net
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 dsvn.edgecastcdn.net
+0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 dualstack.spotify.map.fastly.net
 0.0.0.0 dzp5etodm9s0j.cloudfront.net
 0.0.0.0 e0.video-ak.cdn.spotify.com
@@ -1364,6 +1367,7 @@
 0.0.0.0 eip-onnet.audio-ak.spotify.com.akahost.net
 0.0.0.0 eip-tata.audio-ak.spotify.com.akahost.net
 0.0.0.0 ejs.moatads.com
+0.0.0.0 encrypted-tbn0.gstatic.com
 0.0.0.0 eng.admob.com
 0.0.0.0 engineering.intercom.io
 0.0.0.0 eu-gmtdmp.gd1.mookie1.com
@@ -1881,7 +1885,9 @@
 0.0.0.0 iad.comscore.com
 0.0.0.0 i.admob.com
 0.0.0.0 ib.adnxs.com
+0.0.0.0 ib.anycast.adnxs.com
 0.0.0.0 i.jumptap.com
+0.0.0.0 image6.pubmatic.com
 0.0.0.0 images.comscore.com
 0.0.0.0 images.fastclick.net
 0.0.0.0 images.millennialmedia.com
@@ -2305,6 +2311,7 @@
 0.0.0.0 mail2.comscore.com
 0.0.0.0 malena.lon2.spotify.com
 0.0.0.0 marketer.comscore.com
+0.0.0.0 match.adsrvr.org
 0.0.0.0 ma.tune.com
 0.0.0.0 m.de.2mdn.net
 0.0.0.0 m.doubleclick.net
@@ -2567,6 +2574,7 @@
 0.0.0.0 promo.spotify.com
 0.0.0.0 pschedlb01.lga02.nsone.net
 0.0.0.0 pt.admob.com
+0.0.0.0 pugm22000nfc.pubmatic.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pub-net-srx-int-testing.spotify.com
 0.0.0.0 px.moatads.com
@@ -3248,6 +3256,7 @@
 0.0.0.0 search.spotxchange.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 secure-gl.imrworldwide.com
 0.0.0.0 seen-on-screen.thewhizmarketing.com
 0.0.0.0 sejs.moatads.com
 0.0.0.0 server-54-230-216-203.mrs50.r.cloudfront.net
@@ -3292,6 +3301,7 @@
 0.0.0.0 static.2mdn.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
+0.0.0.0 stats.sonyhpto.livewallcampaigns.com
 0.0.0.0 status.intercom.io
 0.0.0.0 sto1-apresolve-a3.sto.spotify.com
 0.0.0.0 sto1-crashdump-a1.sto.spotify.com
