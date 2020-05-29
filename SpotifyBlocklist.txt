@@ -314,6 +314,7 @@
 56.video-ak.cdn.spotify.com
 58.175.199.104.bc.googleusercontent.com
 59.206.185.35.bc.googleusercontent.com
+6b4572dd6ec7b38b1dfdb4a5f78095b1.safeframe.googlesyndication.com
 60.217.192.35.bc.googleusercontent.com
 62.224.186.35.bc.googleusercontent.com
 63.126.187.35.bc.googleusercontent.com
@@ -1776,6 +1777,7 @@ gew1-accesspoint-b-n2b0.ap.spotify.com
 gew1-accesspoint-b-p520.ap.spotify.com
 gew1-accesspoint-b-zg10.ap.spotify.com
 gnmcuaacaakmol2pahcs6t6saqaaaxilqdanemmjxrjasaaaahj6dya3aaaaa7y.b77xacaawaajqbvhcmj4xxlnohivrgm2ur2d4k2jpejuxcbi.a.j.e5.sk
+google-analytics.com
 googleadapis.l.google.com
 googleads4.g.doubleclick.net
 googleadservices.com
