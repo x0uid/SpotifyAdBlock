@@ -1138,7 +1138,6 @@ cs3.gs1.wac.edgecastcdn.net
 cs410.wac.edgecastcdn.net
 cs41.wac.edgecastcdn.net
 cs434.wac.edgecastcdn.net
-cs439.wpc.4d34.edgecastcdn.net
 cs491.wac.edgecastcdn.net
 cs49.wac.edgecastcdn.net
 cs531.wpc.edgecastcdn.net
