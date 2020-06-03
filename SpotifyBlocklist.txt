@@ -1292,7 +1292,6 @@ eip-ntt.audio-ak.spotify.com.akahost.net
 eip-onnet.audio-ak.spotify.com.akahost.net
 eip-tata.audio-ak.spotify.com.akahost.net
 ejs.moatads.com
-encrypted-tbn0.gstatic.com
 eng.admob.com
 engineering.intercom.io
 eu-gmtdmp.gd1.mookie1.com
