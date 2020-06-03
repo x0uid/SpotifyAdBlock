@@ -817,6 +817,7 @@ audio4-akp.spotify.com.edgesuite.net
 audio4-ak-spotify-com.akamaized.net
 audio4-ak.spotify.com.edgesuite.net
 audio-ake.spotify.com.edgesuite.net
+audio-ak-spotify-com.akamaized.net
 audio-akp-bbr-spotify-com.akamaized.net
 audio-akp.spotify.com
 audio-akp-spotify-com.akamaized.net
