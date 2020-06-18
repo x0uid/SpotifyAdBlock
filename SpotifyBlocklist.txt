@@ -527,6 +527,7 @@ ads-west-colo.adsymptotic.com
 ad.uk.doubleclick.net
 ad.uk.mo.doubleclick.net
 ad.ve.doubleclick.net
+advertising.com
 advertisers.l.doubleclick.net
 ad.video-ak.cdn.spotify.com
 ad-yt-bfp.doubleclick.net
@@ -1786,6 +1787,7 @@ googleads4.g.doubleclick.net
 googleadservices.com
 googleads.g.doubleclick.net
 googlesyndication.com
+google-analytics.com
 go.scdn.co
 gtssl2-ocsp.geotrust.com
 gw.admob.com
