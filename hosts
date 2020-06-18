@@ -605,6 +605,7 @@
 0.0.0.0 ad.uk.doubleclick.net
 0.0.0.0 ad.uk.mo.doubleclick.net
 0.0.0.0 ad.ve.doubleclick.net
+0.0.0.0 advertising.com
 0.0.0.0 advertisers.l.doubleclick.net
 0.0.0.0 ad.video-ak.cdn.spotify.com
 0.0.0.0 ad-yt-bfp.doubleclick.net
@@ -1864,6 +1865,7 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googlesyndication.com
+0.0.0.0 google-analytics.com
 0.0.0.0 go.scdn.co
 0.0.0.0 gtssl2-ocsp.geotrust.com
 0.0.0.0 gw.admob.com
