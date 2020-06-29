@@ -3787,3 +3787,13 @@ zayit.lon.spotify.com
 zhcn.admob.com
 zlink.app.spotify.com
 z.moatads.com
+
+(\.|^)google-analytics\.com$
+(\.|^)googlesyndication\.com$
+(\.|^)2mdn\.net$
+(\.|^)moatads\.com$
+(\.|^)doubleclick\.net$
+(\.|^)safeframe\.googlesyndication\.com$
+(\.|^)smaato\.net$
+(\.|^)fastclick\.net&
+
