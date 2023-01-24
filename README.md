@@ -40,6 +40,8 @@ Download & open [**hosts**](https://github.com/x0uid/SpotifyAdBlock/blob/master/
 
 *There you go, editing hosts file has taken effect.*
 
+It is advisable to clear Spotify cache afterwards in order for the changes to take effect.
+
 
 **Pi-hole compatible versions can be found here:**
 
