@@ -1,15 +1,18 @@
-I will show you how to easily block the servers hosting Spotify ads on your Linux/Mac or Windows machine. 
-This will allow you to listen all day long on a free account without hearing a single ad or being tracked by third party. This trick is very simple, legal and works great.  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40Anis_Muslić)](https://twitter.com/0xUID)
+I will show you how to easily block the servers hosting Spotify ads on your Linux, Mac, or Windows machine. This will allow you to listen all day long on a free account without hearing a single ad or being tracked by third parties. This trick is very simple, legal, and works great.
 
-![logo](https://i.imgur.com/F8ZZU7g.jpg)
+To remove those pesky ads, all we need to do is set up our hosts file to override the DNS for Spotify's ad servers and redirect that traffic to our local machine.
 
-In order to remove those pesky ads, all we need to do is setup out hosts file to override the DNS for Spotify's ad servers and redirect that traffic to our local machine.  
+When the traffic hits our local machine, the call will fail, and the third-party tracking and advertising will be skipped.
 
-When the traffic hits out local machine the call will fail and the tracking third party advertising will be skipped.
+**Test Functionality:**
+Open Spotify and ensure it functions as expected. Some ad and telemetry blocking might cause issues with specific features, so ensure essential functions are not disrupted.
+
+**Regular Updates:**
+Keep your hosts file updated with the latest entries from hosts file. Regular updates ensure ongoing privacy protection as new tracking domains emerge.
 
 Download & open [**hosts**](https://github.com/x0uid/SpotifyAdBlock/blob/master/hosts) file using your favorite text editor. 
 
-**For Windows 10 & 8:**
+**For Windows 11, 10 & 8:**
 
 *Press the Windows key.*
 *Type Notepad in the search field.*
