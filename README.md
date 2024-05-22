@@ -57,5 +57,4 @@ Credits to: [captainhook](https://github.com/captainhook)
 I have maintained this ad-blocking list because I am passionate about this, and i think u have all the right to protect your privacy while enjoying music. 
 Donations are one of the many ways to support what I do.
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/anis
-)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/anis)
