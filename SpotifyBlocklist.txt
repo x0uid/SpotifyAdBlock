@@ -3178,6 +3178,7 @@ sb.voicefive.com
 sc1.admob.com
 sc9.admob.com
 beta.spotify.map.fastly.net
+scdnco.spotify.map.fastly.net
 sdcdn.com
 search.spotxchange.com
 secure.adnxs.com
